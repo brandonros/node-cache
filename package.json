@@ -1,0 +1,10 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "Simple node.js cache library",
+  "main": "./index.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
